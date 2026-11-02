@@ -16,3 +16,5 @@ class Composant(ABC):
     @abstractmethod
     def to_dict(self) -> dict:
         pass
+
+    
